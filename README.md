@@ -20,10 +20,13 @@ Network-Check.exe -h <DomainName>
 环境：Windows 7 Pro x64
 
 HTTP：
+
 ![20201210224119BOPKPa](https://adan0s-1256533472.cos.ap-nanjing.myqcloud.com/uPic/20201210224119BOPKPa.png)
 
 TCP，目标机器使用nc监听：
+
 ![20201210224443ydKSQQ](https://adan0s-1256533472.cos.ap-nanjing.myqcloud.com/uPic/20201210224443ydKSQQ.png)
 
 DNS：
+
 ![20201210224514DDI4RY](https://adan0s-1256533472.cos.ap-nanjing.myqcloud.com/uPic/20201210224514DDI4RY.png)
