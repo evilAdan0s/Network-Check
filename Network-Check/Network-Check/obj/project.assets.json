@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v3.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v3.5": []
+  },
+  "packageFolders": {
+    "/Users/adan0s/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/adan0s/RiderProjects/Network-Check/Network-Check/Network-Check.csproj",
+      "projectName": "Network-Check",
+      "projectPath": "/Users/adan0s/RiderProjects/Network-Check/Network-Check/Network-Check.csproj",
+      "packagesPath": "/Users/adan0s/.nuget/packages/",
+      "outputPath": "/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/adan0s/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net35"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net35": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net35": {
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

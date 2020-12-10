@@ -1,0 +1,9 @@
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/bin/Debug/net35/Network-Check.exe.config
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/bin/Debug/net35/Network-Check.exe
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/bin/Debug/net35/Network-Check.pdb
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/Debug/net35/Network-Check.csprojAssemblyReference.cache
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/Debug/net35/Network-Check.csproj.CoreCompileInputs.cache
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/Debug/net35/Network-Check.AssemblyInfoInputs.cache
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/Debug/net35/Network-Check.AssemblyInfo.cs
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/Debug/net35/Network-Check.exe
+/Users/adan0s/RiderProjects/Network-Check/Network-Check/obj/Debug/net35/Network-Check.pdb
