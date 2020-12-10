@@ -12,9 +12,9 @@ Network-Check.exe -h <DomainName>
                   -t <IP> <Port>
                   -d <DomainName>
 ```
-- -h 探测HTTP出网，指定域名，例如：`Network-Check.exe -h www.baidu.com`
-- -t 探测TCP出网，指定IP和端口，例如：`Network-Check.exe -t 192.168.1.1 4444`
-- -d 探测DNS出网，指定域名，如Cobalt Strike的DNS beacon绑定域名，会返回DNS查询出的IP，可以对照是否为Cobalt Strike server地址，例如：`Network-Check.exe -d www.evil.com`
+- -h  探测HTTP出网，指定域名，例如：`Network-Check.exe -h www.baidu.com`
+- -t  探测TCP出网，指定IP和端口，例如：`Network-Check.exe -t 192.168.1.1 4444`
+- -d  探测DNS出网，指定域名，如Cobalt Strike的DNS beacon绑定域名，会返回DNS查询出的IP，可以对照是否为Cobalt Strike server地址，例如：`Network-Check.exe -d www.evil.com`
 
 # 演示
 环境：Windows 7 Pro x64
@@ -30,3 +30,7 @@ TCP，目标机器使用nc监听：
 DNS：
 
 ![20201210224514DDI4RY](https://adan0s-1256533472.cos.ap-nanjing.myqcloud.com/uPic/20201210224514DDI4RY.png)
+
+# ToDo
+- 支持更多协议和方式
+- 优化
